@@ -7,7 +7,7 @@ This project demonstrates a complete backend system with authentication, analyti
 
 ## Demo
 
-![TinyURL UI](docs/ui.png)
+![TinyURL UI](ui.png)
 
 ---
 
@@ -228,3 +228,4 @@ MS Computer Science – NYU Courant
 GitHub:  
 https://github.com/varad-suryavanshi
 ```
+
